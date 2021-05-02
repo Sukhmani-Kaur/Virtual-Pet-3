@@ -13,9 +13,9 @@ function preload()
   //load images here
   dogImg=loadImage("dogImg.png");
   dogImg1=loadImage("dogImg1.png");
-  bedroom=loadImage("virtual pet images/Bed Room.png");
-  garden=loadImage("virtual pet images/Garden.png");
-  washroom=loadImage("virtual pet images/Wash Room.png");
+  bedroom=loadImage("Bed Room.png");
+  garden=loadImage("Garden.png");
+  washroom=loadImage("Wash Room.png");
 }
 
 function setup() {
